@@ -1,6 +1,6 @@
-# 🚀 Welcome to your new awesome project!
+# Bot that exctracts email addresses for the stemplayerpage
 
-This project has been created using **webpack-cli**, you can now run
+This project has been created using **webpack-cli**, you can run
 
 ```
 npm run build
@@ -11,5 +11,3 @@ or
 ```
 yarn build
 ```
-
-to bundle your application
