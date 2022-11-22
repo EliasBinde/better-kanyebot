@@ -1,13 +1,1 @@
-# Bot that exctracts email addresses for the stemplayer page
-
-This project has been created using **webpack-cli**, you can run
-
-```
-npm run build
-```
-
-or
-
-```
-yarn build
-```
+# Bot that exctracts email addresses for the stemplayer page, made it for a friend, prette sure the page doesnt even exist any more...
